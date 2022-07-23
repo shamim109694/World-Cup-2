@@ -169,7 +169,7 @@ body{
 
 /* flag-style */
 .flag{
-    width: 8.5vw;
+    width: 8.55vw;
     padding-right: 0vw;
     margin-right: 1vw;
     
@@ -177,7 +177,7 @@ body{
 
 /* flag-2-style */
 .flag-2{
-    width: 8.5vw;
+    width: 8.55vw;
     padding-left: 0vw;
     margin-left: 1vw;
 }
