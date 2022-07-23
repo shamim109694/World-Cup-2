@@ -141,7 +141,7 @@ body{
 .blog{
     background-color:white;
     margin: 1.5vw;
-    padding: 1.1vw;
+    padding: 1vw;
     border-radius: 0.5vw;
     font-size: 1.5vw; 
 }
@@ -169,15 +169,16 @@ body{
 
 /* flag-style */
 .flag{
-    width: 8.6vw;
+    width: 8.65vw;
     padding-right: 0vw;
     margin-right: 1vw;
     
 }
 
 /* flag-2-style */
+
 .flag-2{
-    width: 8.6vw;
+    width: 8.65vw;
     padding-left: 0vw;
     margin-left: 1vw;
 }
